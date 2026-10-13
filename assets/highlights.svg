@@ -1,0 +1,25 @@
+<svg width="1280" height="170" viewBox="0 0 1280 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"><title>Highlights</title><style>.mono{font-family:"Courier New","DejaVu Sans Mono",monospace}.sans{font-family:"Segoe UI",Arial,Helvetica,sans-serif}</style><g transform="translate(0.0 20)"><animateTransform attributeName="transform" type="translate" values="0.0 20;0.0 10;0.0 20" dur="3.0s" repeatCount="indefinite"/>
+<rect width="298" height="130" rx="20" fill="#0f0a24" stroke="#a78bfa" stroke-opacity="0.5"/>
+<rect width="298" height="130" rx="20" fill="#a78bfa" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="5.0s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="38" r="6" fill="#a78bfa"><animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="52" y="43" class="mono" font-size="14" letter-spacing="3" fill="#a78bfa">FOCUS</text>
+<text x="28" y="92" class="sans" font-size="28" font-weight="800" fill="#fff">Web &amp; UI/UX</text></g>
+<g transform="translate(327.3 20)"><animateTransform attributeName="transform" type="translate" values="327.3 20;327.3 10;327.3 20" dur="3.5s" repeatCount="indefinite"/>
+<rect width="298" height="130" rx="20" fill="#0f0a24" stroke="#22d3ee" stroke-opacity="0.5"/>
+<rect width="298" height="130" rx="20" fill="#22d3ee" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="5.5s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="38" r="6" fill="#22d3ee"><animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="52" y="43" class="mono" font-size="14" letter-spacing="3" fill="#22d3ee">APPROACH</text>
+<text x="28" y="92" class="sans" font-size="28" font-weight="800" fill="#fff">AI-assisted dev</text></g>
+<g transform="translate(654.7 20)"><animateTransform attributeName="transform" type="translate" values="654.7 20;654.7 10;654.7 20" dur="4.0s" repeatCount="indefinite"/>
+<rect width="298" height="130" rx="20" fill="#0f0a24" stroke="#f472b6" stroke-opacity="0.5"/>
+<rect width="298" height="130" rx="20" fill="#f472b6" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="6.0s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="38" r="6" fill="#f472b6"><animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="52" y="43" class="mono" font-size="14" letter-spacing="3" fill="#f472b6">MINDSET</text>
+<text x="28" y="92" class="sans" font-size="28" font-weight="800" fill="#fff">Iterasi cepat</text></g>
+<g transform="translate(982.0 20)"><animateTransform attributeName="transform" type="translate" values="982.0 20;982.0 10;982.0 20" dur="4.5s" repeatCount="indefinite"/>
+<rect width="298" height="130" rx="20" fill="#0f0a24" stroke="#34d399" stroke-opacity="0.5"/>
+<rect width="298" height="130" rx="20" fill="#34d399" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="6.5s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="38" r="6" fill="#34d399"><animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="52" y="43" class="mono" font-size="14" letter-spacing="3" fill="#34d399">STATUS</text>
+<text x="28" y="92" class="sans" font-size="28" font-weight="800" fill="#fff">Open to collab</text></g>
+</svg>
